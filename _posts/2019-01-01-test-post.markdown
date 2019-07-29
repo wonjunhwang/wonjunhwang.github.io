@@ -4,3 +4,8 @@ title:  "Test Post"
 date:   2019-01-01
 ---
 
+<p class="intro"><span class="dropcap">C</span>APM was a beautifully simple theory but it became clear over time that
+it could not explain the observed behavior of asset markets. So academics
+began to relax the model’s various simplifying assumptions. The parallel to
+the evolution of modern corporate finance research from the Modigliani–
+Miller theorems is clear. </p>
